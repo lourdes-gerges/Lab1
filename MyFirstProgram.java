@@ -5,4 +5,4 @@ public class MyFirstProgram
 		System.out.println("first Java program");
 		System.out.println("Programing is fun!");
 	}
-} 
+}
